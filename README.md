@@ -8,3 +8,7 @@ Habilidades: HTML / CSS / TypeScript / Python / SQL / PHP / Node JS
 
 - 🔭 Estoy trabajando en this page. 
 
+
+
+
+
